@@ -1,2 +1,5 @@
 print("Git Edu")
 print("Additional Print")
+print("A")
+print("A")
+print("A")
